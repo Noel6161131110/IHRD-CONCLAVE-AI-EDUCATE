@@ -18,7 +18,7 @@
 
 # Introduction
 
-The Speech Therapy App is designed to assist individuals who face challenges in speaking clearly. The app provides a platform for users to practice reading stories, and it offers feedback on pronunciation. Using AI, the app identifies words that need improvement and provides audio assistance.
+The Speech Therapy App is designed to assist individuals who face challenges in speaking clearly. The app provides a platform for users to practice reading stories, and it offers feedback on pronunciation. Using AI, the app identifies words that need improvement and provides audio assistance. 
 
 ![App Screenshot](app_screenshot.png)
 
