@@ -23,8 +23,7 @@
 
 The Elevate App is designed to assist individuals who face challenges in speaking clearly. The app provides a platform for users to practice reading stories, and it offers feedback on pronunciation. Using AI, the app identifies words that need improvement and provides audio assistance. 
 
-![Screenshot_1695591974](https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/9cdda8ab-5bf6-475d-b215-39f1c6a1dd94)
-<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/b4ff4507-2061-45af-92e3-acf35d92adca" width="300px" height="300px">
+<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/9cdda8ab-5bf6-475d-b215-39f1c6a1dd94" width="200px" height="400px">
 
 # Features
 
@@ -63,19 +62,19 @@ cd elevate-app
 # Usage
 
 1.
-<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/9775c296-cadd-4f67-948c-e34493d80ab4" width="200px" height="350px">
+<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/9775c296-cadd-4f67-948c-e34493d80ab4" width="200px" height="400px">
 
 3.
-<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/25611b73-05ac-44f2-b184-1ebfa2ebbff9" width="200px" height="350px">
+<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/25611b73-05ac-44f2-b184-1ebfa2ebbff9" width="200px" height="400px">
 
 5.
-<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/e2ceae3d-d4fc-41d6-88ed-53860df44a3c" width="200px" height="350px">
+<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/e2ceae3d-d4fc-41d6-88ed-53860df44a3c" width="200px" height="400px">
 
 7.
-<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/1ddc0d83-ec3a-45cc-824b-37428c6647df" width="200px" height="350px">
+<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/1ddc0d83-ec3a-45cc-824b-37428c6647df" width="200px" height="400px">
 
 9.
-<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/2c5b3112-8e4c-47c5-aa70-0ce272b432c0" width="200px" height="350px">
+<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/2c5b3112-8e4c-47c5-aa70-0ce272b432c0" width="200px" height="400px">
 
 
 # How it Works
