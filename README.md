@@ -20,9 +20,9 @@
 
 # Introduction
 
-The Speech Therapy App is designed to assist individuals who face challenges in speaking clearly. The app provides a platform for users to practice reading stories, and it offers feedback on pronunciation. Using AI, the app identifies words that need improvement and provides audio assistance. 
+The Elevate App is designed to assist individuals who face challenges in speaking clearly. The app provides a platform for users to practice reading stories, and it offers feedback on pronunciation. Using AI, the app identifies words that need improvement and provides audio assistance. 
 
-![App Screenshot](app_screenshot.png)
+![Screenshot_1695591974](https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/9cdda8ab-5bf6-475d-b215-39f1c6a1dd94)
 
 # Features
 
@@ -52,15 +52,29 @@ The Speech Therapy App is designed to assist individuals who face challenges in 
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/speech-therapy-app.git
-cd speech-therapy-app
+git clone https://github.com/yourusername/elevate-app.git
+cd elevate-app
 ```
 
 2. [Additional installation steps, if any]
 
 # Usage
 
-[Instructions on how to use the app, including screenshots or GIFs if applicable.]
+1.
+![Screenshot_1695591955](https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/9775c296-cadd-4f67-948c-e34493d80ab4)
+
+2.
+![Screenshot_1695591945](https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/25611b73-05ac-44f2-b184-1ebfa2ebbff9)
+
+3.
+![Screenshot_1695591974](https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/e2ceae3d-d4fc-41d6-88ed-53860df44a3c)
+
+4.
+![Screenshot_1695592033](https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/1ddc0d83-ec3a-45cc-824b-37428c6647df)
+
+5.
+![Screenshot_1695592072](https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/2c5b3112-8e4c-47c5-aa70-0ce272b432c0)
+
 
 # How it Works
 
