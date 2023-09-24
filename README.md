@@ -1,7 +1,8 @@
 # IHRD-CONCLAVE-AI-EDUCATE
 # Speech Therapy App
 
-![app_logo](https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/3492ba5c-1d04-44d6-b81e-2680398d7013)
+![app_logo](https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/b4ff4507-2061-45af-92e3-acf35d92adca)
+
 
 
 # Table of Contents
