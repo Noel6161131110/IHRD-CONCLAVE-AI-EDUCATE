@@ -1,7 +1,7 @@
 # IHRD-CONCLAVE-AI-EDUCATE
 # ELEVATE
 
-<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/b4ff4507-2061-45af-92e3-acf35d92adca" width="100" height="100">
+<img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/b4ff4507-2061-45af-92e3-acf35d92adca" width="1299px" height="1299px">
 
 
 
