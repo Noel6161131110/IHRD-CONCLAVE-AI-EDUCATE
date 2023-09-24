@@ -1,5 +1,5 @@
 # IHRD-CONCLAVE-AI-EDUCATE
-# Speech Therapy App
+# ELEVATE
 
 ![app_logo](https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/b4ff4507-2061-45af-92e3-acf35d92adca)
 
