@@ -2,7 +2,9 @@
 # ELEVATE
 
 <img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/b4ff4507-2061-45af-92e3-acf35d92adca" width="300px" height="300px">
+# Try the App
 
+[Elevate](https://drive.google.com/file/d/1QVKhufje0CvwGIakJjqH3cBPJ062IRwE/view?usp=sharing)
 # Source Code Repositories
 
 - [Application Source Code Repo](https://github.com/NivedGanga/Elevate)
