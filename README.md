@@ -40,6 +40,7 @@ The Elevate App is designed to assist individuals who face challenges in speakin
 - Flutter for cross-platform mobile app development.
 - Python for backend and Gen-AI.
   - Django for the backend server.
+  - Azure for deploying the backend server.
   - selenium for data extraction.
   - bs4(BeautifulSoup) for data extraction.
   - pandas for data manipulation.
