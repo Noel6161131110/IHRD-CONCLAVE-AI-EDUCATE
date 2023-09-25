@@ -58,19 +58,25 @@ cd elevate-app
 
 # Usage
 
-1.
+1. Register using email and password or using Google SignIn
 <img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/9775c296-cadd-4f67-948c-e34493d80ab4" width="200px" height="400px">
 
-2.
+2. Login with registered email and password or with Google SignIn
 <img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/25611b73-05ac-44f2-b184-1ebfa2ebbff9" width="200px" height="400px">
 
-3.
+3. 
+![Uploading Screenshot_1695621162.png…]()
+
+<img src="" width="200px" height="400px">
+
+
+5. 
 <img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/e2ceae3d-d4fc-41d6-88ed-53860df44a3c" width="200px" height="400px">
 
-4.
+6.
 <img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/1ddc0d83-ec3a-45cc-824b-37428c6647df" width="200px" height="400px">
 
-5.
+7.
 <img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/2c5b3112-8e4c-47c5-aa70-0ce272b432c0" width="200px" height="400px">
 
 
