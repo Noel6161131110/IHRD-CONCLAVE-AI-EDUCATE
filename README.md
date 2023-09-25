@@ -38,8 +38,10 @@ The Elevate App is designed to assist individuals who face challenges in speakin
 # Technologies Used
 
 - Flutter for cross-platform mobile app development.
+  - Used Bloc State-Management approach. 
 - Python for backend and Gen-AI.
   - Django for the backend server.
+  - Azure for deploying backend server.
   - Azure for deploying the backend server.
   - selenium for data extraction.
   - bs4(BeautifulSoup) for data extraction.
@@ -47,6 +49,9 @@ The Elevate App is designed to assist individuals who face challenges in speakin
   - huggingface_hub for using pre trained models.
   - llama-cpp-python for using the python binding for the C++ library for the implementation of the LoRA algorithm.
   - transformers for training and testing the Gen-AI model.
+- Firebase for authentication.
+- Git (Version Control System) which is used to collaborate among teams.
+- Github which global platform for collaboration among teams.
 
 # Getting Started
 
