@@ -25,7 +25,7 @@ The Elevate App is designed to assist individuals who face challenges in speakin
 # Features
 
 - User-friendly interface for easy navigation.
-- Diverse selection of stories for practice.
+- AI-generated stories for practice.
 - Real-time feedback on pronunciation.
 - AI-powered analysis for identifying areas of improvement.
 - Pronunciation assistance with audio playback.
