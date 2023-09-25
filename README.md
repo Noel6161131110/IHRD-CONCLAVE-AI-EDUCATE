@@ -3,6 +3,12 @@
 
 <img src="https://github.com/Noel6161131110/IHRD-CONCLAVE-AI-EDUCATE/assets/96733325/b4ff4507-2061-45af-92e3-acf35d92adca" width="300px" height="300px">
 
+# Source Code Repositories
+
+- [Application Source Code Repo](https://github.com/NivedGanga/Elevate)
+- [Backend Source Code Repo](https://github.com/Noel6161131110/Elevate-backend)
+- [Gen-AI Source Code Repo](https://github.com/lordgrim18/Elevate_Story)
+
 # Table of Contents
 
 - [Introduction](#introduction)
