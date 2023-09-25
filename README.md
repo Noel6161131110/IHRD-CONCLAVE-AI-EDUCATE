@@ -85,7 +85,12 @@ cd elevate-app
 
 # How it Works
 
-[Explain the technical aspects of how the app functions, such as the AI integration, data flow, etc.]
+The general flow of the Application is as follows:
+1. The user signs up into the application.
+2. User details(name, age, genres/tags) are prompted.
+3. The user is given AI generated content such as a story or a paragraph based on their specified genres/tags.
+4. The user reads this content and this audio data is sent to the server and is processed for pronunciation errors and is indicated in the response.
+5. The user can listen to the correct pronunciation of the indicated words.
 
 # Contributing
 
