@@ -39,9 +39,14 @@ The Elevate App is designed to assist individuals who face challenges in speakin
 # Technologies Used
 
 - Flutter for cross-platform mobile app development.
-- Django for the backend server.
-- Python for AI integration.
-- [Other frameworks and libraries used, if applicable]
+- Python for backend and Gen-AI.
+  - Django for the backend server.
+  - selenium for data extraction.
+  - bs4(BeautifulSoup) for data extraction.
+  - pandas for data manipulation.
+  - huggingface_hub for using pre trained models.
+  - llama-cpp-python for using the python binding for the C++ library for the implementation of the LoRA algorithm.
+  - transformers for training and testing the Gen-AI model.
 
 # Getting Started
 
