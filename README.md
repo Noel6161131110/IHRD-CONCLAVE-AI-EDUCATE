@@ -16,7 +16,6 @@
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [How it Works](#how-it-works)
 - [Contributing](#contributing)
@@ -55,17 +54,6 @@ The Elevate App is designed to assist individuals who face challenges in speakin
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - [Python 3.x](https://www.python.org/downloads/)
 - [Django](https://docs.djangoproject.com/en/3.2/topics/install/)
-
-# Installation
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/NivedGanga/Elevate.git
-cd elevate-app
-```
-
-2. [Additional installation steps, if any]
 
 # Usage
 
